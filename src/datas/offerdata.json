@@ -1,0 +1,14 @@
+[
+    {
+        "offer":"http://localhost:3000/assets/offer1.jpeg"
+    },
+    {
+        "offer":"http://localhost:3000/assets/offer2.jpeg"
+    },
+    {
+        "offer":"http://localhost:3000/assets/offer3.jpeg"
+    },
+    {
+        "offer":"http://localhost:3000/assets/offer4.jpeg"
+    }
+]
